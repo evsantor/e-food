@@ -10,4 +10,6 @@ that have ordered breakfast and then I exported the data to a csv. You can also 
 I have also attached two jupyter notebooks, **Part2/breakfastClientsSegmentation.ipynb** and **Part2/totalClientsSegmentation.ipynb**
 for this part in case you want to run the code and their respective html files for easier viewing.
 
+In Part2 you can also find the presentation **ClientSegmentation.pdf**.
+
 Developing was done using Python 3.7.3 and the libraries specified in the requirements.txt with their respective versions.
