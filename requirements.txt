@@ -1,0 +1,14 @@
+ipython==7.19.0
+jupyter-core==4.7.0
+qtconsole==4.7.7
+ipykernel==5.3.4
+jupyter-client==6.1.7
+nbconvert==6.0.7
+ipywidgets==7.6.3
+nbformat==5.1.2
+traitlets==5.0.5
+matplotlib==2.2.4
+pandas==0.25.3
+numpy==1.16.2
+seaborn==0.11.1
+squarify==0.4.3
